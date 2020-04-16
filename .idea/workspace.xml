@@ -1,0 +1,175 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="af3b5f3b-c4a1-4473-9eb6-a64a4f59ed12" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
+  <component name="CompilerWorkspaceConfiguration">
+    <option name="MAKE_PROJECT_ON_SAVE" value="true" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+        <option name="jdkForImporter" value="#JAVA_HOME" />
+        <option name="vmOptionsForImporter" value="-Xmx768m" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="1" />
+  </component>
+  <component name="ProjectId" id="1aZIzUVNmXcIsBSgJ0agZ7NWUzj" />
+  <component name="ProjectViewState">
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/main/resources/META-INF/services" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="/usr/local/bin/node" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="project.structure.last.edited" value="SDKs" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="reference.settings.project.maven.importing" />
+  </component>
+  <component name="RebelAgentSelection">
+    <selection>jr</selection>
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/main/resources/META-INF/services" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="Applet" factoryName="Applet">
+      <option name="WIDTH" value="400" />
+      <option name="HEIGHT" value="300" />
+      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+      <module />
+      <method />
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <option name="TEST_OBJECT" value="class" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="TestNG">
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType">
+      <module name="" />
+      <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m -ea" />
+      <option name="PROGRAM_PARAMETERS" />
+      <predefined_log_file enabled="true" id="idea.log" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SbtLocalSettings">
+    <option name="projectSyncType">
+      <map>
+        <entry key="$USER_HOME$/Private Workspace/seven" value="PREVIEW" />
+        <entry key="$USER_HOME$/Workspaces/Private/membership" value="PREVIEW" />
+      </map>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration>$USER_HOME$/.subversion</configuration>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="af3b5f3b-c4a1-4473-9eb6-a64a4f59ed12" name="Default Changelist" comment="" />
+      <created>1586936951905</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1586936951905</updated>
+      <workItem from="1586936953974" duration="618000" />
+      <workItem from="1586938395545" duration="165000" />
+      <workItem from="1586940019653" duration="16351000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="560" y="194" key="#Project_Structure" timestamp="1586950414999">
+      <screen x="0" y="23" width="1920" height="1008" />
+    </state>
+    <state x="560" y="194" key="#Project_Structure/1920.-13.1440.877/0.23.1920.1008@0.23.1920.1008" timestamp="1586950414999" />
+    <state x="484" y="337" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1586949274512">
+      <screen x="0" y="23" width="1920" height="1008" />
+    </state>
+    <state x="484" y="337" key="#com.intellij.fileTypes.FileTypeChooser/1920.-13.1440.877/0.23.1920.1008@0.23.1920.1008" timestamp="1586949274512" />
+    <state x="773" y="239" key="#com.intellij.ide.util.MemberChooser" timestamp="1586954557131">
+      <screen x="0" y="23" width="1920" height="1008" />
+    </state>
+    <state x="773" y="239" key="#com.intellij.ide.util.MemberChooser/1920.-13.1440.877/0.23.1920.1008@0.23.1920.1008" timestamp="1586954557131" />
+    <state width="1878" height="149" key="GridCell.Tab.0.bottom" timestamp="1587021408649">
+      <screen x="0" y="23" width="1920" height="1008" />
+    </state>
+    <state width="1878" height="149" key="GridCell.Tab.0.bottom/1920.-13.1440.877/0.23.1920.1008@0.23.1920.1008" timestamp="1587021408649" />
+    <state width="1878" height="149" key="GridCell.Tab.0.center" timestamp="1587021408648">
+      <screen x="0" y="23" width="1920" height="1008" />
+    </state>
+    <state width="1878" height="149" key="GridCell.Tab.0.center/1920.-13.1440.877/0.23.1920.1008@0.23.1920.1008" timestamp="1587021408648" />
+    <state width="1878" height="149" key="GridCell.Tab.0.left" timestamp="1587021408648">
+      <screen x="0" y="23" width="1920" height="1008" />
+    </state>
+    <state width="1878" height="149" key="GridCell.Tab.0.left/1920.-13.1440.877/0.23.1920.1008@0.23.1920.1008" timestamp="1587021408648" />
+    <state width="1878" height="149" key="GridCell.Tab.0.right" timestamp="1587021408649">
+      <screen x="0" y="23" width="1920" height="1008" />
+    </state>
+    <state width="1878" height="149" key="GridCell.Tab.0.right/1920.-13.1440.877/0.23.1920.1008@0.23.1920.1008" timestamp="1587021408649" />
+    <state x="469" y="166" key="SettingsEditor" timestamp="1586940254588">
+      <screen x="0" y="23" width="1920" height="1008" />
+    </state>
+    <state x="469" y="166" key="SettingsEditor/1920.-13.1440.877/0.23.1920.1008@0.23.1920.1008" timestamp="1586940254588" />
+    <state x="1545" y="404" width="375" height="316" key="vpa.projectList" timestamp="1586423900099">
+      <screen x="0" y="23" width="1920" height="1008" />
+    </state>
+    <state x="0" y="318" width="652" height="533" key="vpa.projectList/0.23.1440.828" timestamp="1584469981005" />
+    <state x="1920" y="199" width="870" height="665" key="vpa.projectList/1920.-13.1440.877/0.0.1920.1031" timestamp="1585828220429" />
+    <state x="1545" y="404" width="375" height="316" key="vpa.projectList/1920.-13.1440.877/0.23.1920.1008" timestamp="1586423900099" />
+    <state x="1545" y="423" width="375" height="332" key="vpa.projectList/1920.-13.1440.877/0.23.1920.1057" timestamp="1584700360516" />
+    <state x="1050" y="168" width="870" height="696" key="vpa.projectList/1920.-36.1440.900/0.0.1920.1080" timestamp="1586165340107" />
+    <state x="2560" y="540" width="500" height="428" key="vpa.projectList/5120.119.1440.900/0.0.2560.1440/2560.0.2560.1440" timestamp="1584015635191" />
+    <state x="2560" y="507" width="500" height="421" key="vpa.projectList/5120.119.1440.900/2560.0.2560.1440/0.0.2560.1440" timestamp="1584369012986" />
+    <state x="2560" y="558" width="500" height="444" key="vpa.projectList/5120.142.1440.828/0.23.2560.1417/2560.23.2560.1417" timestamp="1581586264394" />
+    <state x="2060" y="540" width="500" height="428" key="vpa.projectList/5120.142.1440.877/0.23.2560.1368/2560.23.2560.1417" timestamp="1584016562707" />
+    <state x="2560" y="505" width="500" height="400" key="vpa.projectList/5120.142.1440.877/2560.0.2560.1440/0.23.2560.1368" timestamp="1584365513070" />
+    <state x="2560" y="522" width="500" height="414" key="vpa.projectList/5120.142.1440.877/2560.23.2560.1417/0.23.2560.1368" timestamp="1584360970240" />
+  </component>
+</project>

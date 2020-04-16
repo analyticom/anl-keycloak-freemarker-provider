@@ -1,0 +1,2 @@
+org/keycloak/forms/login/AnlLoginFormsProviderFactory.class
+org/keycloak/forms/login/freemarker/AnlFreeMarkerLoginFormsProvider.class
